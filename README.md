@@ -13,4 +13,4 @@ About Myself
 - Learning: SQL, Kubernetes, Web APIs
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Suman&show_icons=true&theme=radical)
